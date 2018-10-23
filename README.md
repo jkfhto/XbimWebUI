@@ -8,8 +8,7 @@ Build Status (master branch): [ ![Build Status](http://xbimbuilds.cloudapp.net/a
 
 Build Status (develop branch): [ ![Build Status](http://xbimbuilds.cloudapp.net/app/rest/builds/buildType:(id:Xbim_XbimWebUi_XbimWebUi),branch:(name:develop)/statusIcon "Build Status") ](http://xbimbuilds.cloudapp.net/project.html?projectId=Xbim_XbimWebUi&tab=projectOverview "Build Status")
 
-# XBIM - the eXtensible Building Information Modelling (BIM) Toolkit
-<br>XBIM - 可扩展建筑信息模型（BIM）工具包
+# XBIM - the eXtensible Building Information Modelling (BIM) Toolkit<br>XBIM - 可扩展建筑信息模型（BIM）工具包
 
 ## What is it?
 
