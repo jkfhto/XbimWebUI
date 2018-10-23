@@ -29,11 +29,11 @@ All solutions target .NET 4.0. The 4.0 Client profile may be supported for some 
 
 Xbim is a software library, and is currently deployed with a number of sample applications to demonstrate its capabilities<br>Xbim是一个软件库，目前部署了许多示例应用程序来展示其功能
 
-* XbimXplorer - a Windows WPF sample application that can open and render 3D IFC models (and native XBIM models ) as well as displaying semantic data.<br>bimXplorer - 一个Windows WPF示例应用程序，可以打开和呈现3D IFC模型（和本机XBIM模型）以及显示语义数据
-* Xbim.SceneJSWebViewer - a MVC web application that can open and render 3D IFC models (previously converted to XBIM) using a WebGL compatible browser. <br>Xbim.SceneJSWebViewer - 一个MVC Web应用程序，可以使用兼容WebGL的浏览器打开和渲染3D IFC模型（以前转换为XBIM）
-* XbimConvert - a sample console application to generate native XBIM model and geometry files from an IFC file.<br>XbimConvert - 一个示例控制台应用程序，用于从IFC文件生成本机XBIM模型和几何文件
-* Xbim.COBie.Client - A sample windows application demonstrating how a COBie spreadsheet can be generated from an IFC model.<br>Xbim.COBie.Client - 一个示例Windows应用程序，演示如何从IFC模型生成COBie电子表格
-* CodeExamples - a sample console application demonstrating how to undertake a number of BIM processes using XBIM<br>CodeExamples - 一个示例控制台应用程序，演示如何使用XBIM进行多个BIM进程
+* XbimXplorer - a Windows WPF sample application that can open and render 3D IFC models (and native XBIM models ) as well as displaying semantic data.<br>bimXplorer - 一个Windows WPF示例应用程序，可以打开和呈现3D IFC模型（和本机XBIM模型）以及显示语义数据<br>
+* Xbim.SceneJSWebViewer - a MVC web application that can open and render 3D IFC models (previously converted to XBIM) using a WebGL compatible browser. <br>Xbim.SceneJSWebViewer - 一个MVC Web应用程序，可以使用兼容WebGL的浏览器打开和渲染3D IFC模型（以前转换为XBIM）<br>
+* XbimConvert - a sample console application to generate native XBIM model and geometry files from an IFC file.<br>XbimConvert - 一个示例控制台应用程序，用于从IFC文件生成本机XBIM模型和几何文件<br>
+* Xbim.COBie.Client - A sample windows application demonstrating how a COBie spreadsheet can be generated from an IFC model.<br>Xbim.COBie.Client - 一个示例Windows应用程序，演示如何从IFC模型生成COBie电子表格<br>
+* CodeExamples - a sample console application demonstrating how to undertake a number of BIM processes using XBIM<br>CodeExamples - 一个示例控制台应用程序，演示如何使用XBIM进行多个BIM进程<br>
 
 Please note: all the samples in this solution are examples of how to use the Xbim library, and not intended to be used in a 
 production environment without further development.<br>请注意：此解决方案中的所有示例都是如何使用Xbim库的示例，并且不打算在没有进一步开发的情况下在生产环境中使用
