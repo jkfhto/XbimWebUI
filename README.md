@@ -7,16 +7,16 @@ Build Status (master branch): [ ![Build Status](http://xbimbuilds.cloudapp.net/a
 
 Build Status (develop branch): [ ![Build Status](http://xbimbuilds.cloudapp.net/app/rest/builds/buildType:(id:Xbim_XbimWebUi_XbimWebUi),branch:(name:develop)/statusIcon "Build Status") ](http://xbimbuilds.cloudapp.net/project.html?projectId=Xbim_XbimWebUi&tab=projectOverview "Build Status")
 
-# XBIM - the eXtensible Building Information Modelling (BIM) Toolkit
+# XBIM - the eXtensible Building Information Modelling (BIM) Toolkit<br>XBIM - 可扩展建筑信息模型（BIM）工具包
 
 ## What is it?
 
 The xBIM Tookit (eXtensible Building Information Modelling) is an open-source, software development BIM toolkit that 
-supports the BuildingSmart Data Model (aka the [Industry Foundation Classes IFC](http://en.wikipedia.org/wiki/Industry_Foundation_Classes)).
+supports the BuildingSmart Data Model (aka the [Industry Foundation Classes IFC](http://en.wikipedia.org/wiki/Industry_Foundation_Classes)).<br>xBIM Tookit（可扩展建筑信息模型）是一个开源的软件开发BIM工具包，支持BuildingSmart数据模型（又名工业基础类IFC）
 
 xBIM allows developers to read, create and view [Building Information (BIM)](http://en.wikipedia.org/wiki/Building_information_modeling) Models in the IFC format. 
 There is full support for geometric, topological operations and visualisation. In addition xBIM supports 
-bi-directional translation between IFC and COBie formats
+bi-directional translation between IFC and COBie formats<br>xBIM允许开发人员以IFC格式读取，创建和查看建筑信息（BIM）模型。完全支持几何，拓扑操作和可视化。此外，xBIM支持IFC和COBie格式之间的双向转换
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ You will need Visual Studio 2015 Update 3 or newer to compile the Solution. The 
 [npm](https://www.npmjs.com/) and [webpack](https://webpack.github.io) are used to compile the client side JavaScript libraries.
 Since TypeScript compilation in the Visual Studio solution is enabled, the [TypeScript for Visual Studio 2015](http://www.typescriptlang.org/#download-links)
 extension must be installed at least in version 2.0. Information how to debug and build the solution using webpack [is located here](WEBPACK.md).
-All solutions target .NET 4.0. The 4.0 Client profile may be supported for some projects.
+All solutions target .NET 4.0. The 4.0 Client profile may be supported for some projects.<br>您将需要Visual Studio 2015 Update 3或更高版本来编译解决方案。 Web组件是在TypeScript中创建的。 npm和webpack用于编译客户端JavaScript库。由于启用了Visual Studio解决方案中的TypeScript编译，因此必须至少在2.0版中安装TypeScript for Visual Studio 2015扩展。有关如何使用webpack调试和构建解决方案的信息位于此处。所有解决方案都针对.NET 4.0。某些项目可能支持4.0客户端配置文件
 
 
 Xbim is a software library, and is currently deployed with a number of sample applications to demonstrate its capabilities
