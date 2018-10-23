@@ -10,7 +10,7 @@ extension should be installed.<br>由于此项目使用webpack生成输出包，
 
 The `webpack.config.js` file has a binding defined that launches the `Watch - Development` task after the solution has been loaded.
 This keeps track of changes to the TypeScript files and rebuilds the `Build/xbim.bundle.js` and the `Build/xbim.browser.css` output files.
-A refresh of the page in the browser will load the new bundle.<br>
+A refresh of the page in the browser will load the new bundle.<br>`webpack.config.js`文件定义了一个绑定，在加载解决方案后启动`Watch - Development`任务。这将跟踪TypeScript文件的更改并重建`Build / xbim.bundle.js`和`Build / xbim.browser.css`输出文件。在浏览器中刷新页面将加载新的包。
 
 ``` Javascript
 /// <binding ProjectOpened='Watch - Development' />
